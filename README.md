@@ -1,4 +1,4 @@
-- 👋 Salut, c'est Midrio
+- 👋 Salut, c'est Midrio, je code des trucs simples pour faire le hacker, mais il faudrait que je m'entraîne.
 
 
 <!---
