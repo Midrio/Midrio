@@ -1,4 +1,4 @@
-- 👋 Salut, c'est moi.
+- 👋 Salut l'équipe, parfois je poste mes cours de SNT si ça peut profiter à d'autres
 
 
 <!---
