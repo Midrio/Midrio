@@ -1,1 +1,1 @@
-- 👋 Salut l'équipe, parfois je poste mes cours de SNT si ça peut profiter à d'autres
+- 👋 Salut la team
